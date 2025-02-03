@@ -1,6 +1,6 @@
-# 💫 About Me:
+# 💯 About Me:
 
-👋🏻 Hello there! I’m NomadCraft.<br>💼 Consultant by day, passionate developer by heart.<br>⌨️ I’m all about keyboards, neovim, and web development.<br>💬 Let’s connect and build something awesome together!
+## 👋🏻 Hello there! I’m NomadCraft.<br>💼 Consultant by day, passionate developer by heart.<br>⌨️ I’m all about keyboards, neovim, and web development.<br>💬 Let’s connect and build something awesome together!
 
 # 💻 Tech Stack:
 
